@@ -21,4 +21,4 @@ $WASI_SDK/bin/clang \
 ```
 ## Usage
 
-This module is the guest for the [an-sqlite-bench](https://github.com/danielgusic/an-sqlite-bench) benchmark, which measures the overhead AN-encoding imposes on a realistic SQLite read+write workload.
+This module is the guest for the [an-sqlite-benchmark](https://github.com/danielgusic/an-sqlite-benchmark) benchmark, which measures the overhead AN-encoding imposes on a realistic SQLite read+write workload.
